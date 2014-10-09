@@ -5,7 +5,7 @@ var expect = require('chai').expect;
 
 describe('HelloWorld', function() {
 
-  it('hello world test', function(){
+  it('demo test', function(){
     expect('Hello World').to.equal('Hello World');
   });
 
