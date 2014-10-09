@@ -1,5 +1,11 @@
 'use strict';
 
-exports.beenCalled = function() {
+function HelloWorld() {
+
+}
+
+HelloWorld.prototype.beenCalled = function() {
   return 'Leave me alone.';
 };
+
+exports.HelloWorld = HelloWorld;
