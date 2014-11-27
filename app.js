@@ -7,7 +7,7 @@ var rl = readline.createInterface({
   output: process.stdout
 });
 
-// This is a example for reading & writing in console.
+// This is an example for reading & writing in console.
 rl.question('What is your name? ', function(answer) {
 
   console.log('Hello ' + answer + '!');
