@@ -3,6 +3,7 @@
   "browser": false,
   "strict": true,
   "globalstrict": true,
+  "asi": true,
   "esnext": true,
   "bitwise": true,
   "camelcase": true,
