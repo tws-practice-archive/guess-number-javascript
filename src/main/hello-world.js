@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 var HelloWorld = (function() {
 
@@ -6,11 +6,11 @@ var HelloWorld = (function() {
   }
 
   HelloWorld.prototype.beenCalled = function() {
-    return 'Leave me alone.'
-  }
+    return 'Leave me alone.';
+  };
 
-  return HelloWorld
+  return HelloWorld;
 
-})()
+})();
 
-module.exports = HelloWorld
+module.exports = HelloWorld;
