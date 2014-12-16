@@ -4,13 +4,14 @@
   "private": true,
   "scripts": {
     "start": "node app.js --use_strict",
-    "test": "./node_modules/jshint/bin/jshint ./app.js ./src/* && ./node_modules/mocha/bin/mocha ./src/test/*"
+    "test": "./node_modules/jshint/bin/jshint ./app.js ./src/* && jest"
   },
   "dependencies": {
     "lodash": "^2.4.1"
   },
   "devDependencies": {
     "chai": "^1.9.2",
+    "jest-cli": "^0.2.1",
     "jshint": "^2.5.10",
     "mocha": "^2.0.1",
     "sinon": "^1.11.1"
