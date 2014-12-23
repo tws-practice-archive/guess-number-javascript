@@ -18,9 +18,7 @@
 
 ## 需要使用的测试工具
 
-- [Mocha](http://visionmedia.github.io/mocha/)
-- [Chai](http://chaijs.com)
-- [Sinon.JS](http://sinonjs.org)
+- [Jest](http://facebook.github.io/jest/)
 
 ## 内容
 
