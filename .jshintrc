@@ -30,7 +30,7 @@
     "pit": false,
     "require": false,
     "xdescribe": false,
-    "it": false,
+    "xit": false,
     "expect": false
   }
 }
