@@ -13,4 +13,4 @@ var HelloWorld = (function() {
 
 })();
 
-exports.HelloWorld = HelloWorld;
+module.exports = HelloWorld;

@@ -2,7 +2,7 @@
 
 var sinon = require('sinon');
 var expect = require('chai').expect;
-var HelloWorld = require('../main/hello-world').HelloWorld;
+var HelloWorld = require('../main/hello-world');
 
 describe('HelloWorld', function() {
 
