@@ -9,12 +9,12 @@
 
 - 在操作系统上安装 [Node Version Manager (NVM)](https://github.com/creationix/nvm)
 - 使用NVM安装稳定版的Node.js
-- Clone本项目，在命令行中进入项目根目录并执行 ```npm install``` 安装项目所依赖的Node.js包
-- 执行 ```npm test``` 确保能够成功运行测试并且返回正确结果
+- Clone本项目，在命令行中进入项目根目录并执行 ``npm install`` 安装项目所依赖的Node.js包
+- 执行 ``npm test`` 确保能够成功运行测试并且返回正确结果
 - 选择适合的开发工具（Atom或者Intellij IDEA），同时安装并正确配置EditorConfig，JSHint等开发辅助插件
-- ```app.js``` 文件是项目运行的入口
-- 使用 ```npm start``` 命令运行程序
-- 使用 ```npm test``` 命令可执行代码质量检测和运行测试
+- ``app.js`` 文件是项目运行的入口
+- 使用 ``npm start`` 命令运行程序
+- 使用 ``npm test`` 命令可执行代码质量检测和运行测试
 
 ## 需要使用的测试工具
 
